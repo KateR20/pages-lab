@@ -1,0 +1,54 @@
+/* Web_With_Kate branding */
+
+:root{
+  --accent: #c026d3;         /* magenta */
+  --accent-dark: #86198f;    /* deep magenta */
+  --text: #111827;
+  --muted: #6b7280;
+  --bg: #ffffff;
+}
+
+/* Typography + layout */
+body{
+  color: var(--text);
+  background: var(--bg);
+}
+
+a, a:visited{
+  color: var(--accent-dark);
+}
+a:hover{
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+/* Make the header feel branded */
+.site-header{
+  border-top: 6px solid var(--accent);
+  border-bottom: 1px solid #e5e7eb;
+  background:
+    radial-gradient(circle at 10% 20%, rgba(192,38,211,0.10), transparent 35%),
+    radial-gradient(circle at 90% 0%, rgba(192,38,211,0.08), transparent 40%);
+}
+
+.site-title{
+  font-weight: 800;
+  letter-spacing: 0.2px;
+}
+
+/* Page content styling */
+.post-title, h1, h2, h3{
+  letter-spacing: 0.2px;
+}
+h2{
+  border-left: 4px solid var(--accent);
+  padding-left: 10px;
+}
+
+/* Subtle “web line” divider */
+hr{
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(192,38,211,0.4), transparent);
+  margin: 2rem 0;
+}
