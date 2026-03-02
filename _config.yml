@@ -1,0 +1,16 @@
+title: Web_With_Kate • Pages Lab
+description: GitHub Pages + Jekyll lab site for MWD2B (VCC).
+theme: minima
+
+author:
+  name: Kate Redman
+  email: Kate.Redman@triosstudent.com
+
+header_pages:
+  - index.md
+  - about.md
+
+# Optional: show social icons in some themes
+minima:
+  social_links:
+    github: KateR20
