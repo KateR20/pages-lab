@@ -1,4 +1,5 @@
----
+**Web_With_Kate** • GitHub Pages + Jekyll • MWD2B Lab  
+_Subtle magenta accents + clean, accessible layout._---
 title: Pages Lab - Kate Redman
 ---
 
@@ -27,4 +28,3 @@ This site was created to practice:
 ## 👩‍💻 Author
 
 Kate Redman  
-GitHub: https://github.com/KateR20
