@@ -1,5 +1,8 @@
 ---
 title: Pages Lab - Kate Redman
+---
+
+# Web_With_Kate • GitHub Pages + Jekyll • MWD2B Lab
 
 
 # Web_With_Kate • GitHub Pages + Jekyll • MWD2B Lab
