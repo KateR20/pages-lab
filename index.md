@@ -36,3 +36,4 @@ This site was created to practice:
 ## 👩‍💻 Author
 
 Kate Redman  
+This change was made locally using GitHub Desktop.
